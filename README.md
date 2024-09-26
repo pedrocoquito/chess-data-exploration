@@ -14,7 +14,7 @@ The analyses focus on understanding the relationship between chess openings, pla
 
 ## Dataset
 
-The dataset used in this project contains detailed information about chess matches and is available on Kaggle: [Link](https://www.kaggle.com/datasets/datasnaek/chess)
+The dataset used in this project, **games.csv** file on this repository, contains detailed information about chess matches, and is also available on Kaggle: [Link](https://www.kaggle.com/datasets/datasnaek/chess).
 
 ## Code
 
